@@ -12,7 +12,8 @@ _"Murray Cox conceived the project, compiled and analyzed the data and built the
 
 ### 2. Why did they collect it?
 
-_"The project was created out of a need for cities and residents to understand the true impact of Airbnb on their communities." 来源2_ 
+_"The project was created out of a need for cities and residents to understand the true impact of Airbnb on their communities." 来源2 
+
 "The data provide a useful basis for examining and monitoring Airbnb practices and penetration across local and regional housing markets."来源3
 "Make Airbnb more transparent."
 "Prevent Airbnb once again appears to have manipulated data to conceal illegal activity and to help tenants rights groups and housing advocates understand Airbnb’s impact on their cities and arm them with the data they need to make their case."来源4_
