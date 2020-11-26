@@ -6,7 +6,7 @@
 
 ### 1. Who collected the data?
 
-"Murray Cox conceived the project, compiled and analyzed the data and built the site[1]."
+The team leaded by Murray Cox collected the data. "He conceived the project, compiled and analyzed the data and built the site[1]."
 
 ---
 
@@ -18,7 +18,7 @@
 
 3.Make Airbnb is more transparent.
 
-4.Prevent Airbnb once again appears to have manipulated data to conceal illegal activity and to help tenants rights groups and housing advocates understand Airbnb’s impact on their cities and arm them with the data they need to make their case[4].
+4.Prevent Airbnb once again appears to have manipulated data to conceal illegal activity and "to help tenants rights groups and housing advocates understand Airbnb’s impact on their cities and arm them with the data they need to make their case[4]."
 
 ---
 
@@ -48,7 +48,7 @@
 
 ### 5. What useful information is it missing?
 
-1.Some columns contain invalid data(randomly missing) but it is fine.
+1.Some columns contain invalid data(randomly missing) but it is harmless.
 
 2.The changes of prices/The fluctuation range of price (including dates). If they exist, we can explore which factors have a greater impact on house prices.
 
@@ -84,7 +84,7 @@ In addition to supporting some simple analysis, Such as the distribution of hous
 
 My opinion is all uses listed in Q.7 and Q.8 are ethical. What I want to emphasize is that technology/data is not guilty, and the basis for judging whether data usage violates ethics is the purpose of use. To start with, as for privacy, the data is sourced from publicly available information from the Airbnb site and it has been analyzed, cleansed and aggregated. In other words, no "private" information(host’s privacy and Location information for listings) is being exposed. So It’s ethical when we do some simple analysis. What is more, the data helps maintain justice. Murray Cox found the company had removed over 1000 listings that violated New York's multiple dwelling law just before the data was released in 2016. This action is ethical. Besides, by analyzing this data, we can evaluate the impact of Airbnb on communities. These are objective and valuable for society and that’s why many cities and research institutes fund this project. Overall, all uses listed in Q.7 and Q.8 are ethical.
 
-However, it is possible that data that was ethically collected could be used for unethical purposes. Airbnb’s competitors may use this data to discredit it. They only emphasize the negative impact of Airbnb on the community and the city. This purpose is not objective and unethical. I think ethical purposes should be objective and comprehensive. The data can not only show some negative impacts but some positive impacts such as providing more income opportunities. So I suggest that Murray Cox needs to do better.
+However, it is possible that data that was ethically collected could be used for unethical purposes. Airbnb’s competitors may use this data to discredit it. They only emphasize the negative impact of Airbnb on the community and the city. This purpose is not objective and unethical. I think ethical purposes should be objective and comprehensive. The data can not only show some negative impacts but some positive impacts such as Airbnb can provide more income opportunities for hosts. So I suggest that Murray Cox needs to do better.
 
 But we need to note that this is not a completely “correct” data because it lacks researchers' evaluation of the validity of its data, and Alsudais pointed out that there is a data quality issue in this dataset[7]. Let’s make a hypothesis. If this data is subjectively altered to destroy its accuracy and objectivity, such behavior is unethical. This data cannot be used by the public, no matter how ethical the user’s purpose is.
 
